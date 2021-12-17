@@ -1,4 +1,4 @@
-# EzJavaLogger
+# EzLogger Java
 
 ## Simple.
 
